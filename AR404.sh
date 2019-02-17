@@ -31,7 +31,7 @@ echo  "[AUTHOR    : AR404] " |lolcat
 echo  "[VERSION   : V.1] " | lolcat
 echo  "[TOTALS    : 400++ TOOLS] " | lolcat
 echo  "[NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK] " | lolcat
-echo  "[THANKS TO : AnarchoXploit  ]" | lolcat
+echo  "[THANKS TO : AnarchoXploit]" | lolcat
 echo  "[CONTACT   : root.ar404@gmail.com] " |lolcat
 echo  "_____________________________________________________________" | lolcat
 
@@ -3767,9 +3767,9 @@ rm -rf /storage/emulated/0/
 
 #EXIT
 
-00) echo "AUTHOR: AR404" | lolcat
-echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet AR404 TOOLS | lolcat
+00) echo "AR404" | lolcat
+echo "So This Way, You Are Really Jancok" | lolcat
+figlet Copyright © 2019 - AR404 | lolcat
 exit
 ;;
 
