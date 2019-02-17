@@ -85,7 +85,7 @@ echo -e $b "4. Install Lazymux${enda}";
 echo -e "============================" | lolcat
 echo -e $b "5. Install Tools-X${enda}";
 echo -e "============================" | lolcat
-echo -e $b "6.  Install Shell-Scan${endc}";
+echo -e $b "6. Install Shell-Scan${enda}";
 echo -e "============================" | lolcat
 echo -e $b "7. Install D-TECT${enda}";
 echo -e "============================" | lolcat
@@ -884,7 +884,7 @@ echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
 echo -e "╭─[PILIH NOMORNYA]"
-read -p "╰─root@VanGans=" pil;
+read -p "╰─root@AR404=" pil;
 
 # Nmap
 
