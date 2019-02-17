@@ -3767,9 +3767,9 @@ rm -rf /storage/emulated/0/
 
 #EXIT
 
-00) echo "AR404" | lolcat
+00) echo "AUTHOR : AR404" | lolcat
 echo "So This Way, You Are Really Jancok" | lolcat
-figlet Copyright © 2019 - AR404 | lolcat
+figlet AR404 TOOLS | lolcat
 exit
 ;;
 
