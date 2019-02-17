@@ -1,9 +1,9 @@
 #!/bin/bash
 #version 1.0
 
-#                IM NOOB!!
+#                      IM NOOB!!
 #            COPYRIGHT TINGGALIN JEJAK!!
-#             HARGAI KARYA ORANG LAIN!!
+#            HARGAI KARYA ORANG LAIN COK!!
 
 #07/07/17
 
@@ -877,9 +877,9 @@ echo -e $b "401. Install SourceFacebook${enda}";
 echo -e "============================" | lolcat
 echo -e $b "402. Install Mrcakil${enda}";
 echo -e "============================" | lolcat
-echo -e $b "403. HP BootLoop${enda}";
+echo -e $b "403. Hp BootLoop${enda}";
 echo -e "============================" | lolcat
-echo -e $b "404. JANGAN DIINSTALL :v ${enda}";
+echo -e $b "404. Jangan Di Install :v${enda}";
 echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
@@ -913,7 +913,7 @@ echo
 3) git clone https://github.com/Tuhinshubhra/RED_HAWK
 echo -e "${y} Installer RED_HAWK..."
 echo -e "${y} cd RED_HAWK"
-echo -e "${y} php r_hawk.php"
+echo -e "${y} php rhawk.php"
 
 
 ;;
